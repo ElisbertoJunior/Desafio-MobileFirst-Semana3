@@ -16,7 +16,7 @@
 * Código foi criado a partir do layout do figma respeitando todas as suas especificações o mais fielmente possivel.
 
 # Features 
-- [x]  Layout do Desafio 1 da terceira semana do Programa Explorer
+- [x]  Layout do Desafio 2 da terceira semana do Programa Explorer
 
 <br>
 
